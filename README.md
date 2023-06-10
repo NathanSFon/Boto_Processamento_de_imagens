@@ -20,7 +20,12 @@ Basicamente temos duas pastas contendo as imagens positivas(referentes ao boto-c
 
 ![classe](https://github.com/NathanSFon/Boto_Processamento_de_imagens/blob/main/Screeshots/Classes.png)
 
-Realizamos todo o processamento da rede neura e ao final, com o modelo treinado, pegamos uma das imagens e passamos para a analise do modelo que informa por uma porcentagem se a imagem `e ou não `e de um boto. 
+Realizamos todo o processamento da rede neura e ao final, com o modelo treinado, pegamos uma das imagens e passamos para a analise do modelo que informa por uma porcentagem se a imagem é ou não é de um boto. 
+
+![modelo](https://github.com/NathanSFon/Boto_Processamento_de_imagens/blob/main/Screeshots/modelo.png)
+![Treinamento](https://github.com/NathanSFon/Boto_Processamento_de_imagens/blob/main/Screeshots/treinamento.png)
+
+![Resultado](https://github.com/NathanSFon/Boto_Processamento_de_imagens/blob/main/Screeshots/resultado.png)
 
 Segue o link do notebook onde desenvolvemos o código [boto_ia](https://colab.research.google.com/drive/1lieqv3eAjLTHn6RNGW2laqEFHoIZ6znb#scrollTo=yZrJpThKa00D). Voce pode acessar e fazer seus testes. 
 O banco de imagens que utilizamos estão aqui [Banco de imagens](https://github.com/BecaAlvarez/RedeNeural_BotoCorDeRosa). 
