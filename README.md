@@ -17,7 +17,9 @@ Dentre os principais pontos levados em consideração, decidimos aproveitar a ma
 Utilizando a plataforma Google Colaboratory, desenvolvemos um código para a analise de imagens e apos o processamento informar se a imagem seria ou não de um boto. 
 
 Basicamente temos duas pastas contendo as imagens positivas(referentes ao boto-cor-de-rosa) e outra das imagens negativas(referentes a outras especies comuns na Amazônia). No código, conforme as pastas, temos as classes 0 para as imagens positivas e 1 para as imagens negativas.
-![]()
+
+![classe](https://github.com/NathanSFon/Boto_Processamento_de_imagens/blob/main/Screeshots/Classes.png)
+
 Realizamos todo o processamento da rede neura e ao final, com o modelo treinado, pegamos uma das imagens e passamos para a analise do modelo que informa por uma porcentagem se a imagem `e ou não `e de um boto. 
 
 Segue o link do notebook onde desenvolvemos o código [boto_ia](https://colab.research.google.com/drive/1lieqv3eAjLTHn6RNGW2laqEFHoIZ6znb#scrollTo=yZrJpThKa00D). Voce pode acessar e fazer seus testes. 
